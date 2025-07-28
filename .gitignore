@@ -1,0 +1,20 @@
+# Derlenmiş C dosyaları
+*.o
+*.out
+*.exe
+sender/sender
+
+# .NET build klasörleri
+bin/
+obj/
+
+# Test binary dosyaları
+*.bin
+*.wav
+
+# VSCode klasörü
+.vscode/
+
+# MacOS
+.DS_Store
+
